@@ -1,4 +1,4 @@
-﻿# Ben Maddox
+# Ben Maddox
 
 Staff/Principal .NET (C#) + TypeScript engineer. I build performance-focused APIs, complex rules/workflow systems, and developer productivity tooling (Roslyn analyzers, code generation).
 
